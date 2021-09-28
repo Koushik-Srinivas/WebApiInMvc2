@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Mvc, Configuration: Debug Any CPU ------
+1>  Mvc -> C:\Users\Koushik Srinivas\source\repos\webapiinmvc\Mvc\bin\Mvc.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
